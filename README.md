@@ -10,6 +10,6 @@ To see how these commands work we are going to rewrite the code in `main.py`.  T
 
 For this first exercise, however, I  just want to check that you understand how the code works.  So, with that in mind:
 
-__Modify the code on the left so that it outputs the first 11 numbers in the 13 times table.__
+__Modify the code in main.py so that it outputs the first 11 numbers in the 13 times table.__
 
 ^ *0 times 7 is maybe not the first number in the seven times table that you learned at school.  Trust me when I tell you that this is there for an important reason, which we will come to in due course.*
