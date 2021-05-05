@@ -1,4 +1,4 @@
-table = 7
+table = 13
 
 zeroTimes = 0*table
 oneTimes = 1*table
